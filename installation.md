@@ -44,15 +44,16 @@ ghcr.io/home-assistant/home-assistant:stable
 
 👉 Replace /path/to/your/config with a valid directory on your system.
 
-###3️⃣ Access Home Assistant
+### **3️⃣ Access Home Assistant
 Once the container is running, visit:
+
 ```arduino
 http://localhost:8123
 ```
 
 ---
 
-### 🪟 Installation on Windows
+## 🪟 Installation on Windows
 
 ## 1️⃣ Install Home Assistant via Virtual Machine
 Download and install VirtualBox from here.
