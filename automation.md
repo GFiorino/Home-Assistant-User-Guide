@@ -47,8 +47,11 @@ Add the following to `automations.yaml`:
       target:
         entity_id: light.living_room
 ```
+
 How to Apply Changes:
+
 1-Save the file.
+
 2-Restart Home Assistant to apply the automation.
 
 ---
