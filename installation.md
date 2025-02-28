@@ -44,7 +44,7 @@ ghcr.io/home-assistant/home-assistant:stable
 
 👉 Replace /path/to/your/config with a valid directory on your system.
 
-### **3️⃣ Access Home Assistant
+### **3️⃣ Access Home Assistant**
 Once the container is running, visit:
 
 ```arduino
@@ -55,12 +55,12 @@ http://localhost:8123
 
 ## 🪟 Installation on Windows
 
-### **1️⃣ Install Home Assistant via Virtual Machine
+### **1️⃣ Install Home Assistant via Virtual Machine**
 Download and install VirtualBox from here.
 Download the Home Assistant VDI image from the official site.
 Create a new VM in VirtualBox and attach the Home Assistant disk.
 
-### **2️⃣ Start Home Assistant
+### **2️⃣ Start Home Assistant**
 
 1-Power on the VM and wait for Home Assistant to boot.
 
