@@ -49,6 +49,7 @@ Once the container is running, visit:
 ```arduino
 http://localhost:8123
 ```
+
 ---
 
 ### 🪟 Installation on Windows
@@ -68,4 +69,9 @@ Create a new VM in VirtualBox and attach the Home Assistant disk.
 http://homeassistant.local:8123
 ```
 3-Follow the setup wizard.
+
 ---
+
+### 🎯 Next Steps
+Once installed, move to Configuration & Setup to connect your smart devices!
+
