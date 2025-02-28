@@ -11,8 +11,7 @@ This guide provides solutions to common issues users may encounter while using H
 ✅ **Wrong URL** – Ensure you are using the correct address:  
 http://homeassistant.local:8123
 
-Or try using your **device's IP address**, e.g.:  [
-](http://192.168.X.X:8123)
+Or try using your **device's IP address**, e.g.: (http://192.168.X.X:8123)
 ✅ **Network Issues** – Restart your router and check if Home Assistant is connected.  
 ✅ **Firewall Issues** – Ensure port `8123` is not blocked on your network.  
 
