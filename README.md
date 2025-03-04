@@ -11,7 +11,7 @@ This guide is for:
 - **Intermediate users** who want to explore automations and advanced configurations  
 - **Anyone troubleshooting** common Home Assistant issues  
 
-## 📖 What This Guide Covers  
+##  What This Guide Covers  
 ✅ **Installation** – Step-by-step setup on Raspberry Pi, Docker, and Windows  
 ✅ **Configuration** – Connecting smart devices and setting up dashboards  
 ✅ **Automation** – Creating automation scripts to control devices  
