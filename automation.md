@@ -29,7 +29,7 @@ Automations consist of three parts:
 
 ---
 
-## 📝 Creating Automations via YAML (Advanced Users)  
+##  Creating Automations via YAML (Advanced Users)  
 
 For more flexibility, automations can be written in **YAML** inside `automations.yaml`.  
 
