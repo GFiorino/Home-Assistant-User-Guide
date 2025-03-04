@@ -24,5 +24,3 @@ Start by setting up Home Assistant on your preferred platform:
 For additional help, check out the official [Home Assistant Documentation](https://www.home-assistant.io/docs/).  
 
 ---
-
-This keeps the README **concise, professional, and structured**. Let me know if you want any modifications before adding it to your repository! 🚀
