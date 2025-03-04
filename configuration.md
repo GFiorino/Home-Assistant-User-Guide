@@ -4,7 +4,7 @@ After installing Home Assistant, the next step is **configuring it to connect sm
 
 ---
 
-## 🏠 Accessing the Home Assistant UI  
+##  Accessing the Home Assistant UI  
 
 1. Open your browser and go to:  
 http://homeassistant.local:8123
@@ -13,7 +13,7 @@ http://homeassistant.local:8123
 
 ---
 
-## 🔌 Adding Smart Devices  
+##  Adding Smart Devices  
 
 ### **1️⃣ Auto-Discovery (Recommended)**  
 Home Assistant can automatically detect supported smart devices on your network.  
@@ -21,7 +21,7 @@ Home Assistant can automatically detect supported smart devices on your network.
 1. Navigate to **Settings > Devices & Services**.  
 2. If a device is detected, click **Configure** and follow the setup process.  
 
-👉 Supported devices include smart bulbs, sensors, thermostats, and more.  
+ Supported devices include smart bulbs, sensors, thermostats, and more.  
 
 ### **2️⃣ Manually Adding a Device**  
 If a device is not auto-detected, you can add it manually:  
@@ -32,7 +32,7 @@ If a device is not auto-detected, you can add it manually:
 
 ---
 
-## 🎨 Customizing Your Dashboard  
+##  Customizing Your Dashboard  
 
 ### **1️⃣ Accessing the Dashboard**  
 1. Click **Overview** in the sidebar to see the default dashboard.  
@@ -43,11 +43,11 @@ If a device is not auto-detected, you can add it manually:
 2. Drag and arrange cards for a custom layout.  
 3. Save your changes.  
 
-👉 You can also use **Lovelace UI** for advanced dashboard customization.  
+ You can also use **Lovelace UI** for advanced dashboard customization.  
 
 ---
 
-## 🎯 Next Steps  
+##  Next Steps  
 
 Now that your devices are connected and the dashboard is set up, move on to:  
-👉 **[Automation Guide](./automation.md)** – Learn how to create automations for your smart home!  
+ **[Automation Guide](./automation.md)** – Learn how to create automations for your smart home!  
