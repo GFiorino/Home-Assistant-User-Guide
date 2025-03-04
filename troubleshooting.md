@@ -4,7 +4,7 @@ This guide provides solutions to common issues users may encounter while using H
 
 ---
 
-## 🌐 Can't Access Home Assistant?  
+##  Can't Access Home Assistant?  
 
 ### **Possible Causes & Fixes:**  
 ✅ **Home Assistant is still booting** – Wait a few minutes after restarting.  
@@ -19,7 +19,7 @@ Or try using your **device's IP address**, e.g.: (http://192.168.X.X:8123)
 
 ---
 
-## 🔌 Device Not Detected?  
+##  Device Not Detected?  
 
 ### **Possible Causes & Fixes:**  
 ✅ **Ensure the device is powered on and connected to the same network.**  
@@ -29,7 +29,7 @@ Or try using your **device's IP address**, e.g.: (http://192.168.X.X:8123)
 
 ---
 
-## ⚙️ Automations Not Working?  
+##  Automations Not Working?  
 
 ### **Possible Causes & Fixes:**  
 ✅ **Check automation logs** under **Settings > Automations** for errors.  
@@ -39,7 +39,7 @@ Or try using your **device's IP address**, e.g.: (http://192.168.X.X:8123)
 
 ---
 
-## 🎯 Need More Help?  
+##  Need More Help?  
 
 - Visit the [Home Assistant Community](https://community.home-assistant.io/) for expert advice.  
 - Check the [Home Assistant Logs](https://www.home-assistant.io/docs/faq/debugging/) for detailed error messages.  
