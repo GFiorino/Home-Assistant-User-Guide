@@ -2,7 +2,7 @@
 
 This guide will walk you through installing Home Assistant on different platforms: **Raspberry Pi, Docker, and Windows**.  
 
-## 📌 System Requirements  
+##  System Requirements  
 Before you begin, ensure you have:  
 - A **Raspberry Pi 4 (Recommended) or higher** with a microSD card (for Pi installations)  
 - **Docker installed** (for Docker setup)  
@@ -11,7 +11,7 @@ Before you begin, ensure you have:
 
 ---
 
-## 🖥️ Installation on Raspberry Pi  
+## Installation on Raspberry Pi  
 ### **1️⃣ Download Home Assistant OS**  
 1. Download the latest **Home Assistant OS** image for Raspberry Pi from [here](https://www.home-assistant.io/installation/raspberrypi).  
 2. Flash the image onto a **microSD card** using [balenaEtcher](https://www.balena.io/etcher/).  
@@ -27,7 +27,7 @@ http://homeassistant.local:8123
 
 ---
 
-## 🐳 Installation with Docker  
+##  Installation with Docker  
 ### **1️⃣ Install Docker**  
 If you don’t have Docker installed, follow [this guide](https://docs.docker.com/get-docker/).  
 
@@ -42,7 +42,7 @@ docker run -d \
 ghcr.io/home-assistant/home-assistant:stable
 ```
 
-👉 Replace /path/to/your/config with a valid directory on your system.
+ Replace /path/to/your/config with a valid directory on your system.
 
 ### **3️⃣ Access Home Assistant**
 Once the container is running, visit:
@@ -53,7 +53,7 @@ http://localhost:8123
 
 ---
 
-## 🪟 Installation on Windows
+##  Installation on Windows
 
 ### **1️⃣ Install Home Assistant via Virtual Machine**
 Download and install VirtualBox from here.
@@ -73,6 +73,6 @@ http://homeassistant.local:8123
 
 ---
 
-### 🎯 Next Steps
+###  Next Steps
 Once installed, move to Configuration & Setup to connect your smart devices!
 
