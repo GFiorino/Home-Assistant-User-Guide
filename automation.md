@@ -4,7 +4,7 @@ Automations in Home Assistant allow you to create **smart actions** based on tri
 
 ---
 
-## 🔹 What Are Automations?  
+##  What Are Automations?  
 
 Automations consist of three parts:  
 1️⃣ **Triggers** – Events that start the automation (e.g., motion detected, sunset, button press).  
@@ -13,7 +13,7 @@ Automations consist of three parts:
 
 ---
 
-## 🖱️ Creating Automations via UI (Beginner-Friendly)  
+##  Creating Automations via UI (Beginner-Friendly)  
 
 1. Go to **Settings > Automations & Scenes**.  
 2. Click **Create Automation** and choose:  
@@ -56,5 +56,5 @@ How to Apply Changes:
 
 ---
 
-## 🎯 Next Steps
+##  Next Steps
 Move on to Troubleshooting & FAQs to solve common automation issues.
