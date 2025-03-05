@@ -3,8 +3,6 @@
 ## Overview  
 This guide provides step-by-step instructions for installing, configuring, and automating **Home Assistant**, an open-source smart home platform. It includes troubleshooting solutions and best practices for optimizing automation workflows.  
 
-🔗 **[View the Live Documentation](https://gfiorino.github.io/Home-Assistant-User-Guide/)**  
-
 ---
 
 ## Table of Contents  
@@ -58,4 +56,4 @@ To report issues or suggest improvements:
 
 For any questions or direct feedback, contact **Gianpiero Fiorino** via email.  
 
-🔗 **[View the Live Guide](https://gfiorino.github.io/Home-Assistant-User-Guide/)**
+
