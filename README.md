@@ -1,59 +1,31 @@
-# Home Assistant User Guide  
+# Home Assistant User Guide
 
-## Overview  
-This guide provides step-by-step instructions for installing, configuring, and automating **Home Assistant**, an open-source smart home platform. It includes troubleshooting solutions and best practices for optimizing automation workflows.  
+## Overview
+This project provides structured documentation for installing, configuring, and automating Home Assistant.  
+[Live Guide](https://gfiorino.github.io/Home-Assistant-User-Guide/)
 
----
+## Documentation
+All guides are available in the `/docs` folder.
 
-## Table of Contents  
-- [Installation Guide](./installation.md)  
-- [Configuration Guide](./configuration.md)  
-- [Automation Guide](./automation.md)  
-- [Troubleshooting & FAQs](./troubleshooting.md)  
-- [Contribute & Feedback](#contribute--feedback)  
+- [Installation Guide](./docs/installation.md) – Setup instructions for Raspberry Pi, Docker, and Windows.
+- [Configuration Guide](./docs/configuration.md) – Connecting smart devices and customizing dashboards.
+- [Automation Guide](./docs/automation.md) – Writing automation scripts.
+- [Troubleshooting Guide](./docs/troubleshooting.md) – Common errors and solutions.
 
----
+## Getting Started
+To use this project locally, clone the repository and navigate to the `/docs` folder.
 
-## [Installation Guide](./installation.md)  
-Learn how to install Home Assistant on different platforms:  
-- **Raspberry Pi**  
-- **Docker**  
-- **Windows**  
+```sh
+git clone https://github.com/GFiorino/Home-Assistant-User-Guide.git
+cd Home-Assistant-User-Guide/docs
+```
+## Contributing
 
-Full instructions are available in the **[Installation Guide](./installation.md)**.  
+We welcome contributions. To contribute:
 
----
+- Open an **issue**: [GitHub Issues](https://github.com/GFiorino/Home-Assistant-User-Guide/issues)
+- Submit a **pull request** following the contribution guide.
 
-## [Configuration Guide](./configuration.md)  
-After installation, the next step is to **configure Home Assistant** to connect smart devices and customize dashboards.  
+## License
 
-See full details in the **[Configuration Guide](./configuration.md)**.  
-
----
-
-## [Automation Guide](./automation.md)  
-Home Assistant automations allow you to create **custom rules** for controlling your smart home.  
-
-For more details, refer to the **[Automation Guide](./automation.md)**.  
-
----
-
-## [Troubleshooting & FAQs](./troubleshooting.md)  
-Find solutions to common issues, such as:  
-- **"Failed to connect to Home Assistant"**  
-- **"Device not responding"**  
-
-For a full list of troubleshooting steps, visit the **[Troubleshooting Guide](./troubleshooting.md)**.  
-
----
-
-## Contribute & Feedback  
-
-To report issues or suggest improvements:  
-
-- **Open a GitHub issue:** [Home Assistant User Guide Issues](https://github.com/GFiorino/Home-Assistant-User-Guide/issues)  
-- **Submit a pull request** with suggested changes.  
-
-For any questions or direct feedback, contact **Gianpiero Fiorino** via email.  
-
-
+This project is licensed under the **MIT License**. See [LICENSE.md](LICENSE.md) for details.
