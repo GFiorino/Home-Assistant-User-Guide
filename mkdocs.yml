@@ -1,0 +1,9 @@
+site_name: Home Assistant User Guide
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Configuration: configuration.md
+  - Automation: automation.md
+  - Troubleshooting: troubleshooting.md
+theme:
+  name: material  # Professional theme for software documentation
