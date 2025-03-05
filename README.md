@@ -59,8 +59,8 @@ automation:
 **Solution:** Restart the device integration and check compatibility.  
 
 For additional troubleshooting steps, visit the [Troubleshooting Guide](./troubleshooting.md).  
-
 For more automation examples, refer to the [Automation Guide](./automation.md).
+
 ---
 
 ## Contribute & Feedback  
