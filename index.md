@@ -1,5 +1,3 @@
-
-
 Welcome to the **Home Assistant User Guide**. This guide provides structured documentation to help users install, configure, and automate Home Assistant efficiently.
 
 ## Overview
