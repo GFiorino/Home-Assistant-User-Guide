@@ -28,3 +28,10 @@ For additional resources, visit the official [Home Assistant Documentation](http
 
 For any questions or support, refer to the [GitHub Issues](https://github.com/GFiorino/Home-Assistant-User-Guide/issues) section.
 
+<div style="text-align: center; margin-top: 20px;">
+    <a href="https://gfiorino.github.io/Technical-Writing-Portfolio/" 
+       style="display: inline-block; padding: 10px 20px; font-size: 1em; font-weight: bold; 
+              color: white; background-color: #1B263B; border-radius: 8px; text-decoration: none;">
+        ← Back to Portfolio
+    </a>
+</div>
