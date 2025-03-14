@@ -1,5 +1,3 @@
-# Home Assistant User Guide
-
 Welcome to the Home Assistant User Guide. This documentation provides structured information to help users set up, configure, and automate Home Assistant efficiently. Whether you are a beginner or an advanced user, this guide will walk you through the essential steps.
 
 ## Table of Contents  
