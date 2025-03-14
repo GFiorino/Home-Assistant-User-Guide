@@ -1,4 +1,4 @@
-site_name: Home Assistant User Guide
+site_name: Home Assistant Docs
 
 nav:
   - Home: index.md
