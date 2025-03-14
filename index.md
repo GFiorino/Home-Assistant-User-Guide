@@ -32,6 +32,5 @@ For any questions or support, refer to the [GitHub Issues](https://github.com/GF
               color: #4A5568; background-color: #E4E7EB; border-radius: 8px; text-decoration: none;
               box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); display: flex; align-items: center; 
               justify-content: center; gap: 8px; width: fit-content; margin: auto;">
-        Back to Portfolio
     </a>
 </div>
